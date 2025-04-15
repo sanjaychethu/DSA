@@ -8,8 +8,6 @@ public class ArrayList{
         System.out.println("Basic ArrayList: " + lst);
     }
 }
-
-//string only
 import java.util.ArrayList;
 
 public class GenericArrayList {
